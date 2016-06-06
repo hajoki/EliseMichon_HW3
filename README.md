@@ -13,3 +13,5 @@ should be placed in the same folder.
 Running 'advanced.py' in Eclipse creates 'dataset.interaction_words.csv'.
 
 3. Both of these files are compatible with Weka, choosing them in Applications > Explorer, then Preprocess > Open file...
+
+4. Results are provided in 'EliseMichon_HW3.pdf'.
